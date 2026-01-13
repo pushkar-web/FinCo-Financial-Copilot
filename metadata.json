@@ -1,0 +1,7 @@
+{
+  "name": "FinCo - Financial Co-Pilot",
+  "description": "A smart financial co-pilot for UPI-first users. FinCo analyzes your transactions, predicts cashflow, and gives actionable advice using Gemini's advanced reasoning capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
